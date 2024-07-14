@@ -1,0 +1,10 @@
+# Main
+name: "" # Stake Name (Username)
+id: "" # Stake ID (From Graphql)
+email: "" # Stake Email
+
+# Response Time (Seconds)
+time: 0.4 # 0.4sec = 400ms
+
+# Initial Balance (LTC)
+init: 0.00000000 # 1.00000000 = 1LTC

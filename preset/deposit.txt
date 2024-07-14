@@ -1,0 +1,458 @@
+{
+    "data": {
+        "createVaultDeposit": {
+            "id": "%ID%",
+            "amount": %AMOUNT%,
+            "currency": "ltc",
+            "user": {
+                "id": "%UID%",
+                "balances": [
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "ape",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "ape",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "ars",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "ars",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "bch",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "bch",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "bnb",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "bnb",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "brl",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "brl",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "btc",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "btc",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "busd",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "busd",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "cad",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "cad",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "clp",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "clp",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "cro",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "cro",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "dai",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "dai",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "dkk",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "dkk",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "doge",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "doge",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "eos",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "eos",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "eth",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "eth",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "eur",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "eur",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "gold",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "gold",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "inr",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "inr",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "jpy",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "jpy",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "link",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "link",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": %AVAILABLE%,
+                            "currency": "ltc",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": %VAULT%,
+                            "currency": "ltc",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "matic",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "matic",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "mxn",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "mxn",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "pen",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "pen",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "sand",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "sand",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "shib",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "shib",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "sweeps",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "sweeps",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "trx",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "trx",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "try",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "try",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "uni",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "uni",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "usd",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "usd",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "usdc",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "usdc",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "usdt",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "usdt",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    },
+                    {
+                        "available": {
+                            "amount": 0,
+                            "currency": "xrp",
+                            "__typename": "Balance"
+                        },
+                        "vault": {
+                            "amount": 0,
+                            "currency": "xrp",
+                            "__typename": "Balance"
+                        },
+                        "__typename": "UserBalance"
+                    }
+                ],
+                "__typename": "User"
+            },
+            "__typename": "UserVaultDeposit"
+        }
+    }
+}
